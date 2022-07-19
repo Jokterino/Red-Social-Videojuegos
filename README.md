@@ -1,3 +1,3 @@
 # Intrucciones
-Vincule la base de datos
-Cambia las direcciones en codigo segun donde guardaras el archivo
+Vincule la base de datos </br>
+Cambia las direcciones en codigo en global.php segun donde guardaras el archivo
